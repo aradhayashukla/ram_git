@@ -1,0 +1,12 @@
+package Ram;
+
+
+import java.io.*;
+
+public class FISDemo {
+public static void main(String[]args)
+throws FileNotFoundException,IOException
+{
+FileOutputStream fos=new FileOutputStream("abc.txt");
+	}}
+
