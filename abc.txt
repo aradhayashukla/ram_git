@@ -8,5 +8,6 @@ public static void main(String[]args)
 throws FileNotFoundException,IOException
 {
 FileOutputStream fos=new FileOutputStream("abc.txt");
+System.out.println("good");
 	}}
 
