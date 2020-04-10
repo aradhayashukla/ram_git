@@ -1,3 +1,4 @@
+#oho
 # ram_git
 class A
 {
